@@ -1,0 +1,28 @@
+form .non-editable {
+    background-color: lightgray;
+    border: none;
+    pointer-events: none;
+}
+
+form fieldset {
+    border: 1px solid #CCC;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+form legend {
+    color: #3C6EAC;
+    font-size: 12px;
+}
+
+form table {
+    width: 100%;
+}
+
+form table td {
+    padding: 2px;
+}
+
+form input[type="text"], input[type="month"], input[type="date"], input[type="number"], input[type="password"], select, textarea {
+    width: 100%;
+}
