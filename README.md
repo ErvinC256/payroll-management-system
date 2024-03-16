@@ -16,5 +16,15 @@
 
 ---
 
+### Description:
+This website is a payroll management tool, which simplifies and automates the process of managing employees' salaries, allowances, and other related financial tasks. It simplifies and optimizes the salary process through various functions, including automatic salary calculation, tax deduction, payroll generation, reporting and so on. It also enables HR administrators to easily maintain a centralized database of employee information.
+
+### Features:
+1. Track and store the detailed information of each employee, such as name, employment position, salary, and other personal information.
+2. Maintain employee identification number, job, and department records.
+3. Generate payroll and reports detailing employees' income, deductions, and net wages.
+4. Generate payroll reports for management, accounting, and auditing purposes.
+5. Import and export data to facilitate data exchange with external systems.
+6. 
 ### To run:
 1. Use XAMPP
