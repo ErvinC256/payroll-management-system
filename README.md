@@ -14,10 +14,12 @@
 
 ![image](https://github.com/ErvinC256/payroll-management-system/assets/149756489/3f166bac-1cc5-4650-b173-69af67d3f2a0)
 
----
+-
 
 ### Description:
 This website is a payroll management tool, which simplifies and automates the process of managing employees' salaries, allowances, and other related financial tasks. It simplifies and optimizes the salary process through various functions, including automatic salary calculation, tax deduction, payroll generation, reporting and so on. It also enables HR administrators to easily maintain a centralized database of employee information.
+
+-
 
 ### Features:
 1. Track and store the detailed information of each employee, such as name, employment position, salary, and other personal information.
@@ -25,6 +27,8 @@ This website is a payroll management tool, which simplifies and automates the pr
 3. Generate payroll and reports detailing employees' income, deductions, and net wages.
 4. Generate payroll reports for management, accounting, and auditing purposes.
 5. Import and export data to facilitate data exchange with external systems.
-6. 
+
+-
+
 ### To run:
 1. Use XAMPP
