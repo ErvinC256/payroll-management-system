@@ -16,5 +16,5 @@
 
 <hr>
 
-# To run:
+### To run:
 1. Use XAMPP
