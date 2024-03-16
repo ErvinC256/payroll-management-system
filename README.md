@@ -14,7 +14,5 @@
 
 ![image](https://github.com/ErvinC256/payroll-management-system/assets/149756489/3f166bac-1cc5-4650-b173-69af67d3f2a0)
 
-<hr>
-
 ### To run:
 1. Use XAMPP
