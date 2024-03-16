@@ -1,5 +1,7 @@
 # payroll-management-system
 
+--
+
 ![image](https://github.com/ErvinC256/payroll-management-system/assets/149756489/fa0c5dc4-66b8-4f0b-8546-f99c70c6d74b)
 
 ![image](https://github.com/ErvinC256/payroll-management-system/assets/149756489/f11221d9-68e9-4513-90f8-dd1aeabba82c)
